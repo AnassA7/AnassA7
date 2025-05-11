@@ -3,6 +3,6 @@
     <a href="">About me</a> .
     <a href="">My blog</a> .
     <a href="https://x.com/lhmam_anass">X (Formerly Twitter)</a> .
-    <a href="">Linkedin</a>
+    <a href="www.linkedin.com/in/el-hmam-anass-371326332">Linkedin</a>
   </samp>
 </p>
